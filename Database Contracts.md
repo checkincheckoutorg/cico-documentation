@@ -10,7 +10,7 @@ Columns:
 # Book
 ## Table Schema
 Columns:
-- id, int, primary key
+- id, int, primary key, auto increment
 - isbn, string, unique
 - title, string
 - author, string
