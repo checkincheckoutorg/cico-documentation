@@ -16,5 +16,6 @@ Columns:
 - author, string
 - genre, string
 - stock, int
+- front_cover, image
 
 ### Endpoints
